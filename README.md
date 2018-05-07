@@ -21,7 +21,7 @@ Saved models
 
 ## Emojify
 
-1. Emojify.ipynb and Emojify.py
+1. Emojify.ipynb
 Code for training testing with text-blogs explaining the approach.
 
 2. data 
